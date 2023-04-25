@@ -1,5 +1,5 @@
-using System.Speech.Recognition;
-using Microsoft.Globalization;
+using Microsoft.Speech.Recognition;
+using System.Globalization;
 
 namespace MicrosoftSpeech
 {
